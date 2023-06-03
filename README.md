@@ -1,7 +1,8 @@
 # springReactChuyenDeWeb
 # architecture :
 ![image](https://github.com/thuanWorkspace/springReactChuyenDeWeb/assets/117074155/1908af4f-4a69-4021-91bc-85e2a5c3fd3f)
-flow :![flowGit-spring project drawio](https://github.com/thuanWorkspace/springReactChuyenDeWeb/assets/117074155/9e7cd7b9-0a6d-4735-bc68-200968b87bc9)
+# flow: 
+![flowGit-spring project drawio](https://github.com/thuanWorkspace/springReactChuyenDeWeb/assets/117074155/9e7cd7b9-0a6d-4735-bc68-200968b87bc9)
 # final result:
 # home:
 ![home](https://github.com/thuanWorkspace/springReactChuyenDeWeb/assets/117074155/9c30df3b-e7dd-4aa9-a891-8bb3a80a0dfa)
